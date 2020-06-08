@@ -1,0 +1,686 @@
+,movie,year,imdb,
+0,The Godfather,1972,9.2,10
+1,Se7en,1995,8.6,10
+2,Inception,2010,8.8,10
+3,Memento,2000,8.4,10
+4,The Lion King,1994,8.5,10
+5,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,10
+6,Alien,1979,8.4,10
+7,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,9
+8,Mulan,1998,7.6,9
+9,Kill Bill: Vol. 1,2003,8.1,9
+10,The Lord of the Rings: The Two Towers,2002,8.7,9
+11,Blade Runner 2049,2017,8,9
+12,The Shawshank Redemption,1994,9.3,9
+13,Aliens,1986,8.3,9
+14,The Others,2001,7.6,9
+15,The Prestige,2006,8.5,9
+16,The Grand Budapest Hotel,2014,8.1,9
+17,Gladiator,2000,8.5,9
+18,The Lord of the Rings: The Return of the King,2003,8.9,9
+19,The Dark Knight,2008,9,9
+20,American History X,1998,8.5,9
+21,The Last Emperor,1987,7.7,9
+22,Inside Out,2015,8.1,9
+23,Blade Runner,1982,8.1,9
+24,1917,2019,8.3,9
+25,The Godfather: Part II,1974,9,9
+26,The Fall,2006,7.9,8
+27,Hotel Rwanda,2004,8.1,8
+28,Aladdin,1992,8,8
+29,Coraline,2009,7.7,8
+30,Beauty and the Beast,1991,8,8
+31,Django Unchained,2012,8.4,8
+32,Moon,2009,7.9,8
+33,Twelve Monkeys,1995,8,8
+34,The Shining,1980,8.4,8
+35,Hotaru no haka,1988,8.5,8
+36,Pulp Fiction,1994,8.9,8
+37,Star Wars,1977,8.6,8
+38,Batman Begins,2005,8.2,8
+39,Snatch,2000,8.3,8
+40,Apocalypto,2006,7.8,8
+41,Gisaengchung,2019,8.6,8
+42,Schindler's List,1993,8.9,8
+43,Harry Potter and the Prisoner of Azkaban,2004,7.9,8
+44,The Departed,2006,8.5,8
+45,The Descent,2005,7.2,8
+46,Fight Club,1999,8.8,8
+47,Joker,2019,8.5,8
+48,Sinister,2012,6.8,8
+49,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8,8
+50,Der Untergang,2004,8.2,8
+51,Toy Story 3,2010,8.3,8
+52,WALL·E,2008,8.4,8
+53,Shutter Island,2010,8.1,8
+54,The Usual Suspects,1995,8.5,8
+55,Rosemary's Baby,1968,8,8
+56,12 Years a Slave,2013,8.1,8
+57,Reservoir Dogs,1992,8.3,8
+58,The Man Who Would Be King,1975,7.8,8
+59,Toy Story,1995,8.3,8
+60,La vita è bella,1997,8.6,8
+61,Jodaeiye Nader az Simin,2011,8.3,8
+62,Rise of Empires: Ottoman,2020,8,8
+63,Apocalypse Now,1979,8.4,8
+64,Goodfellas,1990,8.7,8
+65,The Matrix,1999,8.7,8
+66,Dark City,1998,7.6,8
+67,Up,2009,8.2,8
+68,The Silence of the Lambs,1991,8.6,8
+69,One Flew Over the Cuckoo's Nest,1975,8.7,8
+70,Heat,1995,8.2,7
+71,Toy Story 2,1999,7.9,7
+72,How to Train Your Dragon,2010,8.1,7
+73,Star Wars: Episode VI - Return of the Jedi,1983,8.3,7
+74,La vie d'Adèle,2013,7.7,7
+75,The Pursuit of Happyness,2006,8,7
+76,A.I. Artificial Intelligence,2001,7.2,7
+77,Ratatouille,2007,8,7
+78,Enemy at the Gates,2001,7.6,7
+79,The Land Before Time,1988,7.4,7
+80,Requiem for a Dream,2000,8.3,7
+81,True Romance,1993,7.9,7
+82,Lincoln,2012,7.3,7
+83,Interstellar,2014,8.6,7
+84,1408,2007,6.8,7
+85,Dallas Buyers Club,2013,8,7
+86,Apollo 13,1995,7.6,7
+87,The Lives of Others,2006,8.4,7
+88,Mad Max: Fury Road,2015,8.1,7
+89,Star Wars: Episode III - Revenge of the Sith,2005,7.5,7
+90,"Monsters, Inc.",2001,8,7
+91,Her,2013,8,7
+92,Inglourious Basterds,2009,8.3,7
+93,Straight Outta Compton,2015,7.9,7
+94,Blood Diamond,2006,8,7
+95,Unforgiven,1992,8.2,7
+96,Donnie Darko,2001,8,7
+97,The Thing,1982,8.1,7
+98,The Illusionist,2006,7.6,7
+99,Jurassic Park,1993,8.1,7
+100,Trainspotting,1996,8.1,7
+101,Saving Private Ryan,1998,8.6,7
+102,The Big Short,2015,7.8,7
+103,Valkyrie,2008,7.1,7
+104,The Exorcist,1973,8,7
+105,American Beauty,1999,8.3,7
+106,Good Will Hunting,1997,8.3,7
+107,[Rec],2007,7.4,7
+108,Spider-Man,2002,7.3,7
+109,Braveheart,1995,8.3,7
+110,The Sixth Sense,1999,8.1,7
+111,The Ring,2002,7.1,7
+112,The Wicker Man,1973,7.5,7
+113,Idi i smotri,1985,8.3,7
+114,The Nightmare Before Christmas,1993,8,7
+115,The Book of Eli,2010,6.9,7
+116,The Omen,1976,7.5,7
+117,Forrest Gump,1994,8.8,7
+118,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4,7
+119,Casino,1995,8.2,7
+120,The Wizard of Oz,1939,8,7
+121,The Hateful Eight,2015,7.8,7
+122,The Hunt for Red October,1990,7.6,7
+123,In the Name of the Father,1993,8.1,7
+124,Brokeback Mountain,2005,7.7,7
+125,L.A. Confidential,1997,8.2,7
+126,The VVitch: A New-England Folktale,2015,6.9,7
+127,Training Day,2001,7.7,7
+128,Mystic River,2003,7.9,7
+129,Black Swan,2010,8,7
+130,Terminator 2: Judgment Day,1991,8.5,7
+131,It,2017,7.3,7
+132,Before Midnight,2013,7.9,7
+133,The Incredibles,2004,8,7
+134,28 Days Later...,2002,7.6,7
+135,The Green Mile,1999,8.6,7
+136,10 Cloverfield Lane,2016,7.2,7
+137,Harry Potter and the Sorcerer's Stone,2001,7.6,7
+138,Titanic,1997,7.8,7
+139,The Last King of Scotland,2006,7.7,7
+140,Jaws,1975,8,7
+141,Ice Age,2002,7.5,7
+142,2001: A Space Odyssey,1968,8.3,7
+143,The Emperor's New Groove,2000,7.3,7
+144,The King's Speech,2010,8,7
+145,A Clockwork Orange,1971,8.3,7
+146,The Count of Monte Cristo,2002,7.8,7
+147,The Evil Dead,1981,7.5,7
+148,Lawrence of Arabia,1962,8.3,7
+149,Taxi Driver,1976,8.3,7
+150,I Am Legend,2007,7.2,7
+151,Die Hard,1988,8.2,7
+152,Catch Me If You Can,2002,8.1,7
+153,Oldeuboi,2003,8.4,7
+154,Sen to Chihiro no kamikakushi,2001,8.6,7
+155,En kongelig affære,2012,7.5,7
+156,Atonement,2007,7.8,7
+157,Raiders of the Lost Ark,1981,8.4,7
+158,Finding Nemo,2003,8.1,7
+159,"Il buono, il brutto, il cattivo",1966,8.8,7
+160,Les Misérables,2012,7.6,7
+161,The Matrix Reloaded,2003,7.2,7
+162,Nightcrawler,2014,7.8,7
+163,Tarzan,1999,7.3,7
+164,El orfanato,2007,7.4,7
+165,Fargo,1996,8.1,7
+166,Monty Python and the Holy Grail,1975,8.2,7
+167,Split,2016,7.3,7
+168,Indiana Jones and the Last Crusade,1989,8.2,7
+169,Rocky,1976,8.1,7
+170,Spartacus,1960,7.9,7
+171,Full Metal Jacket,1987,8.3,7
+172,Annihilation,2018,6.9,7
+173,Insidious,2010,6.8,6
+174,The Place Beyond the Pines,2012,7.3,6
+175,Before Sunset,2004,8,6
+176,Hellboy,2004,6.8,6
+177,Children of Men,2006,7.9,6
+178,Hereditary,2018,7.3,6
+179,Despicable Me,2010,7.6,6
+180,Argo,2012,7.7,6
+181,Mission: Impossible,1996,7.1,6
+182,Spider-Man 2,2004,7.3,6
+183,The Help,2011,8.1,6
+184,Men in Black,1997,7.3,6
+185,John Wick,2014,7.4,6
+186,Rogue One,2016,7.8,6
+187,Source Code,2011,7.5,6
+188,Warrior,2011,8.2,6
+189,Perfume: The Story of a Murderer,2006,7.5,6
+190,Westworld,1973,7,6
+191,Minority Report,2002,7.6,6
+192,Lilo & Stitch,2002,7.2,6
+193,Gone with the Wind,1939,8.1,6
+194,The Descendants,2011,7.3,6
+195,About Time,2013,7.8,6
+196,Silver Linings Playbook,2012,7.7,6
+197,Kingdom of Heaven,2005,7.2,6
+198,It's a Mad Mad Mad Mad World,1963,7.5,5
+199,Now You See Me,2013,7.3,6
+200,The Terminator,1984,8,6
+201,Sweeney Todd: The Demon Barber of Fleet Street,2007,7.3,6
+202,The Kite Runner,2007,7.6,6
+203,John Wick: Chapter 2,2017,7.5,6
+204,Mad Max,1979,6.9,6
+205,Knives Out,2019,7.9,6
+206,A Quiet Place,2018,7.5,6
+207,The Conjuring,2013,7.5,6
+208,X-Men: Days of Future Past,2014,8,6
+209,Vanilla Sky,2001,6.9,6
+210,Män som hatar kvinnor,2009,7.8,6
+211,Das weiße Band - Eine deutsche Kindergeschichte,2009,7.8,6
+212,Trick 'r Treat,2008,6.8,6
+213,Tangled,2010,7.7,6
+214,The Martian,2015,8,6
+215,Harry Potter and the Chamber of Secrets,2002,7.4,6
+216,Wo hu cang long,2000,7.8,6
+217,Frost/Nixon,2008,7.7,6
+218,Changeling,2008,7.7,6
+219,Shrek 2,2004,7.2,6
+220,Dunkirk,2017,7.9,6
+221,The Hangover,2009,7.7,6
+222,Rocky Balboa,2006,7.1,6
+223,Scarface,1983,8.3,6
+224,Legends of the Fall,1994,7.6,6
+225,The Reader,2008,7.6,6
+226,No Country for Old Men,2007,8.1,6
+227,Whiplash,2014,8.5,6
+228,The Dark Knight Rises,2012,8.4,6
+229,Disturbia,2007,6.8,6
+230,"I, Robot",2004,7.1,6
+231,A Beautiful Mind,2001,8.2,6
+232,Despicable Me 2,2013,7.3,6
+233,Star Wars: Episode VII - The Force Awakens,2015,7.9,6
+234,Shrek,2001,7.8,6
+235,The Hobbit: An Unexpected Journey,2012,7.8,6
+236,Click,2006,6.4,6
+237,Public Enemies,2009,7,6
+238,The Town,2010,7.5,6
+239,E.T. the Extra-Terrestrial,1982,7.8,6
+240,La La Land,2016,8,6
+241,Jumanji,1995,7,6
+242,Anna Karenina,2012,6.6,6
+243,Halloween,1978,7.8,6
+244,Blue Valentine,2010,7.4,6
+245,Zombieland,2009,7.6,6
+246,The Notebook,2004,7.8,6
+247,Get Out,2017,7.7,6
+248,Oculus,2013,6.5,6
+249,Alice in Wonderland,2010,6.4,6
+250,The Road,2009,7.2,6
+251,Gone Girl,2014,8.1,6
+252,Frozen,2013,7.4,6
+253,Drive,2011,7.8,6
+254,The Last Samurai,2003,7.7,6
+255,Once,2007,7.8,6
+256,Face/Off,1997,7.3,6
+257,Behind Enemy Lines,2001,6.4,6
+258,V for Vendetta,2005,8.2,6
+259,Slumdog Millionaire,2008,8,6
+260,The Girl with the Dragon Tattoo,2011,7.8,6
+261,Invictus,2009,7.3,6
+262,Casablanca,1942,8.5,6
+263,Ex Machina,2014,7.7,6
+264,The Mist,2007,7.1,6
+265,Pan's Labyrinth,2006,8.2,6
+266,Misery,1990,7.8,6
+267,X: First Class,2011,7.7,6
+268,À l'intérieur,2007,6.8,6
+269,Evil Dead II,1987,7.8,6
+270,Gangs of New York,2002,7.5,6
+271,Eastern Promises,2007,7.6,6
+272,Let Me In,2010,7.1,6
+273,Gran Torino,2008,8.1,6
+274,Love Actually,2003,7.6,6
+275,Gake no ue no Ponyo,2008,7.7,6
+276,Blue Velvet,1986,7.8,6
+277,Pandorum,2009,6.7,6
+278,Sicko,2007,7.9,6
+279,Kill Bill: Vol. 2,2004,8,6
+280,Harry Potter and the Order of the Phoenix,2007,7.5,6
+281,World War Z,2013,7,6
+282,Prometheus,2012,7,6
+283,The Lincoln Lawyer,2011,7.3,6
+284,Brave,2012,7.1,6
+285,Indiana Jones and the Temple of Doom,1984,7.6,6
+286,Edge of Tomorrow,2014,7.9,6
+287,Lost in Translation,2003,7.7,6
+288,Pirates of the Caribbean: Dead Man's Chest,2006,7.3,6
+289,300,2006,7.6,6
+290,Cloverfield,2008,7,6
+291,Milk,2008,7.5,6
+292,The Boy in the Striped Pyjamas,2008,7.8,6
+293,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,6
+294,Black Hawk Down,2001,7.7,6
+295,The Revenant,2015,8,6
+296,The Bourne Ultimatum,2007,8,6
+297,The Babadook,2014,6.8,6
+298,Sin City,2005,8,7
+299,The Other Boleyn Girl,2008,6.7,5
+300,X-Men,2000,7.4,5
+301,Great Expectations,2012,6.4,5
+302,Ice Age: Dawn of the Dinosaurs,2009,6.9,5
+303,Corpse Bride,2005,7.3,5
+304,Bruce Almighty,2003,6.7,5
+305,The Bourne Legacy,2012,6.7,5
+306,Ice Age: The Meltdown,2006,6.8,5
+307,Hot Fuzz,2007,7.8,5
+308,The Perks of Being a Wallflower,2012,8,5
+309,Insidious: Chapter 2,2013,6.6,5
+310,Arrival,2016,7.9,5
+311,21 Jump Street,2012,7.2,5
+312,The Terminal,2004,7.4,5
+313,King Kong,2005,7.2,5
+314,The Lost World: Jurassic Park,1997,6.6,5
+315,Zodiac,2007,7.7,5
+316,The Italian Job,1969,7.3,5
+317,Paranormal Activity,2007,6.3,5
+318,From Russia with Love,1963,7.4,5
+319,The Italian Job,2003,7,5
+320,The Social Network,2010,7.7,5
+321,Idiocracy,2006,6.6,5
+322,Alien³,1992,6.5,5
+323,The Purge,2013,5.7,5
+324,Star Wars: Episode II - Attack of the Clones,2002,6.5,5
+325,Troy,2004,7.2,5
+326,The Hunger Games,2012,7.2,5
+327,The Devil Wears Prada,2006,6.9,5
+328,Rise of the Planet of the Apes,2011,7.6,5
+329,Charlie and the Chocolate Factory,2005,6.6,5
+330,The Assassination of Jesse James by the Coward Robert Ford,2007,7.5,5
+331,Jurassic World,2015,7,5
+332,Harold & Kumar Escape from Guantanamo Bay,2008,6.6,5
+333,RED,2010,7,5
+334,Mongol,2007,7.2,5
+335,Skyfall,2012,7.7,5
+336,He's Just Not That Into You,2009,6.4,5
+337,Juno,2007,7.4,5
+338,The Hitchhiker's Guide to the Galaxy,2005,6.8,5
+339,The Day After Tomorrow,2004,6.4,5
+340,Independence Day,1996,7,5
+341,Pretty Woman,1990,7,5
+342,Ender's Game,2013,6.6,5
+343,The Queen,2006,7.3,5
+344,Sherlock Holmes,2009,7.6,5
+345,A Christmas Carol,2009,6.8,5
+346,Cars,2006,7.1,5
+347,Transcendence,2014,6.3,5
+348,Shaun of the Dead,2004,7.9,5
+349,Mission: Impossible - Ghost Protocol,2011,7.4,5
+350,Avatar,2009,7.8,5
+351,Up in the Air,2009,7.4,5
+352,Casino Royale,2006,8,5
+353,Man on Fire,2004,7.7,5
+354,Armageddon,1998,6.7,5
+355,The Godfather: Part III,1990,7.6,5
+356,The Proposal,2009,6.7,5
+357,War for the Planet of the Apes,2017,7.4,5
+358,A Series of Unfortunate Events,2004,6.8,5
+359,Rush Hour,1998,7,5
+360,The Time Traveler's Wife,2009,7.1,5
+361,The Great Dictator,1940,8.4,5
+362,The Curious Case of Benjamin Button,2008,7.8,5
+363,It Follows,2014,6.8,5
+364,Kingsman: The Secret Service,2014,7.7,5
+365,The Mask of Zorro,1998,6.7,5
+366,Madagascar,2005,6.9,5
+367,The Imitation Game,2014,8,5
+368,The Bourne Identity,2002,7.9,5
+369,The Chronicles of Narnia: Prince Caspian,2008,6.5,5
+370,Pacific Rim,2013,6.9,5
+371,Johnny English,2003,6.2,5
+372,Grindhouse,2007,7.5,5
+373,Batman,1989,7.5,5
+374,The Holiday,2006,6.9,5
+375,National Treasure,2004,6.8,5
+376,Iron Man,2008,7.9,5
+377,Watchmen,2009,7.6,5
+378,Scary Movie,2000,6.2,5
+379,Fury,2014,7.6,5
+380,Maleficent,2014,7,5
+381,Jack Reacher,2012,7,5
+382,Batman Returns,1992,7,5
+383,Jeune et jolie,2013,6.7,5
+384,The SpongeBob SquarePants Movie,2004,7.1,5
+385,"South Park: Bigger, Longer & Uncut",1999,7.7,5
+386,Zootopia,2016,8,5
+387,District 9,2009,7.9,5
+388,Insidious: Chapter 3,2015,6.1,5
+389,Natural Born Killers,1994,7.3,5
+390,Star Wars: Episode I - The Phantom Menace,1999,6.5,5
+391,Cloud Atlas,2012,7.4,5
+392,Tinker Tailor Soldier Spy,2011,7.1,5
+393,Snowpiercer,2013,7.1,5
+394,Kung Fu Panda,2008,7.5,5
+395,Friday Night Lights,2004,7.2,5
+396,Superman,1978,7.3,5
+397,Deadpool,2016,8,5
+398,30 Days of Night,2007,6.6,5
+399,The Great Gatsby,2013,7.2,5
+400,Luftslottet som sprängdes,2009,7.3,5
+401,Harry Potter and the Deathly Hallows: Part 1,2010,7.7,5
+402,Dawn of the Planet of the Apes,2014,7.6,5
+403,The Bourne Supremacy,2004,7.7,5
+404,Indiana Jones and the Kingdom of the Crystal Skull,2008,6.1,5
+405,Taken,2008,7.8,5
+406,Hardcore Henry,2015,6.7,4
+407,Happy Feet,2006,6.4,4
+408,Evil Dead,2013,6.5,4
+409,The Da Vinci Code,2006,6.6,4
+410,A Very Harold & Kumar 3D Christmas,2011,6.3,4
+411,The Fast and the Furious,2001,6.8,4
+412,Devil,2010,6.2,4
+413,The Hunger Games: Catching Fire,2013,7.5,4
+414,Kingsman: The Golden Circle,2017,6.7,4
+415,Accepted,2006,6.4,4
+416,8 Mile,2002,7.1,4
+417,[Rec]²,2009,6.5,4
+418,Interview with the Vampire: The Vampire Chronicles,1994,7.6,4
+419,28 Weeks Later,2007,7,4
+420,Alien: Covenant,2017,6.4,4
+421,Godzilla,2014,6.4,4
+422,The Simpsons Movie,2007,7.3,4
+423,Annabelle,2014,5.4,4
+424,Wanted,2008,6.7,4
+425,Madagascar: Escape 2 Africa,2008,6.6,4
+426,Avengers: Infinity War,2018,8.5,4
+427,Men in Black 3,2012,6.8,4
+428,American Sniper,2014,7.3,4
+429,Love in the Time of Cholera,2007,6.4,4
+430,Life of Pi,2012,7.9,4
+431,The Golden Compass,2007,6.1,4
+432,The Wolf of Wall Street,2013,8.2,4
+433,The Matrix Revolutions,2003,6.8,4
+434,Angels & Demons,2009,6.7,4
+435,The Edge of Seventeen,2016,7.3,4
+436,Peter Pan,2003,6.8,4
+437,X2,2003,7.4,4
+438,Superbad,2007,7.6,4
+439,Kick-Ass,2010,7.6,4
+440,Cirque du Freak: The Vampire's Assistant,2009,5.8,4
+441,The Mask,1994,6.9,4
+442,Easy A,2010,7.1,4
+443,Shrek the Third,2007,6.1,4
+444,The Good Dinosaur,2015,6.7,4
+445,Flickan som lekte med elden,2009,7.2,4
+446,American Hustle,2013,7.2,4
+447,Saw,2004,7.6,4
+448,La belle et la bête,2014,6.4,4
+449,Atlantis: The Lost Empire,2001,6.9,4
+450,Silent Hill,2006,6.5,4
+451,The Duchess,2008,6.9,4
+452,The Incredible Hulk,2008,6.7,4
+453,We're the Millers,2013,7,4
+454,Crash,2004,7.8,4
+455,The Wolverine,2013,6.7,4
+456,Captain America: The Winter Soldier,2014,7.7,4
+457,The Purge: Anarchy,2014,6.4,4
+458,Black Panther,2018,7.3,4
+459,Fantastic Beasts and Where to Find Them,2016,7.3,4
+460,27 Dresses,2008,6.1,4
+461,National Treasure: Book of Secrets,2007,6.5,4
+462,Harry Potter and the Half-Blood Prince,2009,7.6,4
+463,Mission: Impossible - Rogue Nation,2015,7.4,4
+464,Hot Tub Time Machine,2010,6.4,4
+465,Jurassic Park III,2001,5.9,4
+466,The Conjuring 2,2016,7.3,4
+467,Sherlock Holmes: A Game of Shadows,2011,7.5,4
+468,Jason Bourne,2016,6.6,4
+469,Transformers,2007,7,4
+470,The Man from U.N.C.L.E.,2015,7.3,4
+471,Knowing,2009,6.2,4
+472,The Hunger Games: Mockingjay - Part 1,2014,6.6,4
+473,X-Men: Apocalypse,2016,6.9,4
+474,Warcraft,2016,6.8,4
+475,The Thing,2011,6.2,4
+476,Total Recall,2012,6.3,4
+477,How to Train Your Dragon 2,2014,7.8,4
+478,X-Men: The Last Stand,2006,6.7,4
+479,Quantum of Solace,2008,6.6,4
+480,The Amazing Spider-Man,2012,6.9,4
+481,The Transporter,2002,6.8,4
+482,American Psycho,2000,7.6,4
+483,Brother Bear,2003,6.8,4
+484,She's the Man,2006,6.3,4
+485,The Irishman,2019,7.9,4
+486,Mission: Impossible III,2006,6.9,4
+487,Friends with Benefits,2011,6.5,4
+488,Doctor Strange,2016,7.5,4
+489,Hancock,2008,6.4,4
+490,Shrek Forever After,2010,6.3,4
+491,22 Jump Street,2014,7,4
+492,Twin Peaks: Fire Walk with Me,1992,7.3,4
+493,Beauty and the Beast,2017,7.1,4
+494,The Bank Job,2008,7.2,4
+495,Gravity,2013,7.7,4
+496,The X Files: I Want to Believe,2008,5.9,4
+497,Twilight,2008,5.2,4
+498,The Uninvited,2009,6.3,4
+499,The Hobbit: The Desolation of Smaug,2013,7.8,4
+500,Ice Age: Continental Drift,2012,6.6,4
+501,Ouija: Origin of Evil,2016,6.1,4
+502,Knocked Up,2007,6.9,4
+503,Bridesmaids,2011,6.8,4
+504,The Stoning of Soraya M.,2008,8,4
+505,Case 39,2009,6.2,4
+506,Gerald's Game,2017,6.6,4
+507,Final Destination,2000,6.7,4
+508,The Diary of a Teenage Girl,2015,6.9,4
+509,King Arthur,2004,6.3,4
+510,Doctor Dolittle,1998,5.4,4
+511,Prince of Persia: The Sands of Time,2010,6.6,3
+512,The Great Wall,2016,5.9,3
+513,Captain America: Civil War,2016,7.8,3
+514,X-Men Origins: Wolverine,2009,6.6,3
+515,The Twilight Saga: New Moon,2009,4.7,3
+516,Batman v Superman: Dawn of Justice,2016,6.5,3
+517,Suicide Squad,2016,6,3
+518,Paranormal Activity 2,2010,5.6,3
+519,Pirates of the Caribbean: On Stranger Tides,2011,6.6,3
+520,Eat Pray Love,2010,5.8,3
+521,Transformers: Revenge of the Fallen,2009,6,3
+522,Taken 2,2012,6.3,3
+523,Iron Man 2,2010,7,3
+524,Love & Other Drugs,2010,6.7,3
+525,Taken 3,2014,6,3
+526,Hannah Montana: The Movie,2009,4.5,3
+527,Thor,2011,7,3
+528,The Dictator,2012,6.4,3
+529,The Sorcerer's Apprentice,2010,6.1,3
+530,Spring Breakers,2012,5.3,3
+531,Night at the Museum: Battle of the Smithsonian,2009,6,3
+532,Project X,2012,6.6,3
+533,No Strings Attached,2011,6.2,3
+534,The Last Exorcism,2010,5.6,3
+535,Predators,2010,6.4,3
+536,Quarantine,2008,5.9,3
+537,Ghostbusters,2016,5.2,3
+538,The Host,2013,5.9,3
+539,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,6.3,3
+540,Star Wars: Episode IX - The Rise of Skywalker,2019,6.7,3
+541,Horrible Bosses,2011,6.9,3
+542,Men in Black II,2002,6.2,3
+543,Lara Croft: Tomb Raider,2001,5.8,3
+544,Contagion,2011,6.7,3
+545,Justice League,2017,6.4,3
+546,The Purge: Election Year,2016,6,3
+547,Kick-Ass 2,2013,6.5,3
+548,Limitless,2011,7.4,3
+549,Thor: Ragnarok,2017,7.9,3
+550,Jigsaw,2017,5.8,3
+551,Salt,2010,6.4,3
+552,The Fault in Our Stars,2014,7.7,3
+553,The Hangover Part III,2013,5.8,3
+554,The Hobbit: The Battle of the Five Armies,2014,7.4,3
+555,Pirates of the Caribbean: At World's End,2007,7.1,3
+556,The Fast and the Furious: Tokyo Drift,2006,6,3
+557,Sinister 2,2015,5.3,3
+558,Iron Man Three,2013,7.2,3
+559,Teenage Mutant Ninja Turtles,2014,5.8,3
+560,Pearl Harbor,2001,6.2,3
+561,Pirates of the Caribbean: Dead Men Tell No Tales,2017,6.6,3
+562,Captain Marvel,2019,6.9,3
+563,The Avengers,2012,8,3
+564,The Hunger Games: Mockingjay - Part 2,2015,6.5,3
+565,Spider-Man: Homecoming,2017,7.4,3
+566,Don Jon,2013,6.5,3
+567,Robin Hood,2010,6.6,3
+568,Hulk,2003,5.6,3
+569,Mission: Impossible II,2000,6.1,3
+570,The Green Hornet,2011,5.8,3
+571,Star Wars: The Clone Wars,2008,5.9,3
+572,The Lazarus Effect,2015,5.2,3
+573,Noah,2014,5.8,3
+574,The Strangers,2008,6.2,3
+575,The Boy,2016,6,3
+576,The Legend of Zorro,2005,6,3
+577,Bachelorette,2012,5.3,3
+578,300: Rise of an Empire,2014,6.2,3
+579,King Arthur: Legend of the Sword,2017,6.7,3
+580,The Twilight Saga: Breaking Dawn - Part 2,2012,5.5,3
+581,Wonder Woman,2017,7.4,3
+582,The Bling Ring,2013,5.6,3
+583,Evan Almighty,2007,5.4,3
+584,Ant-Man,2015,7.3,3
+585,Zero Dark Thirty,2012,7.4,3
+586,Night at the Museum,2006,6.4,3
+587,The Expendables 2,2012,6.6,3
+588,Guardians of the Galaxy Vol. 2,2017,7.6,3
+589,Captain America: The First Avenger,2011,6.9,3
+590,Mr. & Mrs. Smith,2005,6.5,3
+591,The Expendables,2010,6.5,3
+592,The Hangover Part II,2011,6.4,3
+593,Shoot 'Em Up,2007,6.7,3
+594,Lights Out,2016,6.3,3
+595,The Adventures of Tintin,2011,7.3,3
+596,Sucker Punch,2011,6,3
+597,Dead Silence,2007,6.2,3
+598,Guardians of the Galaxy,2014,8,3
+599,The Campaign,2012,6.1,3
+600,Thor: The Dark World,2013,6.9,3
+601,Furious 6,2013,7.1,3
+602,Sex and the City,2008,5.6,3
+603,Fifty Shades Darker,2017,4.6,3
+604,Jumanji: Welcome to the Jungle,2017,6.9,3
+605,Spider-Man 3,2007,6.2,3
+606,Harry Potter and the Goblet of Fire,2005,7.7,3
+607,Austin Powers: The Spy Who Shagged Me,1999,6.6,3
+608,Avengers: Endgame,2019,8.4,3
+609,Resident Evil,2002,6.7,3
+610,Man of Steel,2013,7,3
+611,The Descent: Part 2,2009,5.8,3
+612,Percy Jackson & the Olympians: The Lightning Thief,2010,5.9,3
+613,The Last House on the Left,2009,6.5,3
+614,Ouija,2014,4.5,3
+615,Biohazard Regeneration,2008,6.5,3
+616,The Fate of the Furious,2017,6.7,2
+617,The Dark Tower,2017,5.6,2
+618,Paranormal Activity 4,2012,4.6,2
+619,College Road Trip,2008,4.3,2
+620,Jennifer's Body,2009,5.2,2
+621,Just Go with It,2011,6.4,2
+622,2 Fast 2 Furious,2003,5.9,2
+623,Dracula,2020,6.8,2
+624,Identity Thief,2013,5.7,2
+625,Love,2015,6.1,2
+626,Battle Los Angeles,2011,5.7,2
+627,The Happening,2008,5,2
+628,Transformers: Dark of the Moon,2011,6.2,2
+629,The Amazing Spider-Man 2,2014,6.6,2
+630,You Don't Mess with the Zohan,2008,5.5,2
+631,Saw III,2006,6.2,2
+632,Saw V,2008,5.8,2
+633,House at the End of the Street,2012,5.6,2
+634,The Pink Panther,2006,5.7,2
+635,Bride Wars,2009,5.5,2
+636,The Mummy,2017,5.4,2
+637,Grown Ups 2,2013,5.4,2
+638,The Twilight Saga: Breaking Dawn - Part 1,2011,4.9,2
+639,Avengers: Age of Ultron,2015,7.3,2
+640,Antichrist,2009,6.6,2
+641,One Missed Call,2008,4,2
+642,Good Luck Chuck,2007,5.6,2
+643,I Spit on Your Grave,2010,6.3,2
+644,Knock Knock,2015,4.9,2
+645,The Circle,2017,5.3,2
+646,Christmas Inheritance,2017,5.7,2
+647,When in Rome,2010,5.6,2
+648,New Year's Eve,2011,5.7,2
+649,Transformers: Age of Extinction,2014,5.6,2
+650,Fast Five,2011,7.3,2
+651,Eragon,2006,5.1,2
+652,Transformers: The Last Knight,2017,5.2,2
+653,Basic Instinct 2,2006,4.3,2
+654,Fantastic Four,2005,5.7,2
+655,Saw VI,2009,6,2
+656,Fast & Furious,2009,6.6,2
+657,Star Wars: Episode VIII - The Last Jedi,2017,7,2
+658,Snakes on a Plane,2006,5.4,2
+659,American Heist,2014,5,2
+660,Vampire Academy,2014,5.5,2
+661,Silent Hill: Revelation,2012,5,2
+662,Day of the Woman,1978,5.7,2
+663,2012,2009,5.8,2
+664,Hall Pass,2011,5.8,2
+665,The Expendables 3,2014,6.1,2
+666,Fast & Furious 7,2015,7.2,2
+667,The Twilight Saga: Eclipse,2010,5,2
+668,Saw IV,2007,5.9,2
+669,Fantastic Beasts: The Crimes of Grindelwald,2018,6.6,2
+670,Green Lantern,2011,5.5,2
+671,Resident Evil: Apocalypse,2004,6.2,2
+672,Grown Ups,2010,5.9,2
+673,Fantastic Four,2015,4.3,1
+674,Prom Night,2008,3.9,1
+675,LOL,2012,4.4,1
+676,Vampires Suck,2010,3.4,1
+677,The Human Centipede (First Sequence),2009,4.4,1
+678,The Human Centipede II (Full Sequence),2011,3.8,1
+679,Fifty Shades of Grey,2015,4.1,1
+680,Scary Movie 5,2013,3.5,1
+681,Hostel,2005,5.9,1
+682,Disaster Movie,2008,1.9,1
+683,The Last Airbender,2010,4.1,1
+684,Srpski film,2010,5.1,1

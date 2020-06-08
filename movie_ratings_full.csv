@@ -1,0 +1,901 @@
+,movie,year,imdb
+0,Casino,1995,8.2
+1,Braveheart,1995,8.3
+2,Titanic,1997,7.8
+3,The Last Emperor,1987,7.7
+4,Blue Velvet,1986,7.8
+5,E.T. the Extra-Terrestrial,1982,7.8
+6,Blade Runner,1982,8.1
+7,Full Metal Jacket,1987,8.3
+8,The Usual Suspects,1995,8.5
+9,WALL·E,2008,8.4
+10,Toy Story 3,2010,8.3
+11,Star Wars: Episode V - The Empire Strikes Back,1980,8.7
+12,Aliens,1986,8.3
+13,Sicko,2007,7.9
+14,Casablanca,1942,8.5
+15,Lawrence of Arabia,1962,8.3
+16,"Il buono, il brutto, il cattivo",1966,8.8
+17,Dark City,1998,7.6
+18,Paranormal Activity,2007,6.3
+19,Zodiac,2007,7.7
+20,21 Jump Street,2012,7.2
+21,Rogue One,2016,7.8
+22,Hacksaw Ridge,2016,8.1
+23,Heat,1995,8.2
+24,One Flew Over the Cuckoo's Nest,1975,8.7
+25,Up,2009,8.2
+26,Apocalypse Now,1979,8.4
+27,The Man Who Would Be King,1975,7.8
+28,Rosemary's Baby,1968,8
+29,American History X,1998,8.5
+30,Coraline,2009,7.7
+31,Spider-Man 2,2004,7.3
+32,Fight Club,1999,8.8
+33,The Conjuring,2013,7.5
+34,The Grand Budapest Hotel,2014,8.1
+35,Inglourious Basterds,2009,8.3
+36,Rise of Empires: Ottoman,2020,8
+37,Dracula,2020,6.8
+38,Black Panther,2018,7.3
+39,Kingsman: The Secret Service,2014,7.7
+40,Thor: Ragnarok,2017,7.9
+41,Guardians of the Galaxy,2014,8
+42,Batman Begins,2005,8.2
+43,The Dark Knight Rises,2012,8.4
+44,Joker,2019,8.5
+45,Interstellar,2014,8.6
+46,It's a Mad Mad Mad Mad World,1963,7.5
+47,Mulan,1998,7.6
+48,Idi i smotri,1985,8.3
+49,L.A. Confidential,1997,8.2
+50,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4
+51,The Great Dictator,1940,8.4
+52,Whiplash,2014,8.5
+53,Avengers: Infinity War,2018,8.5
+54,Cidade de Deus,2002,8.6
+55,The Notebook,2004,7.8
+56,The Perks of Being a Wallflower,2012,8
+57,Alien,1979,8.4
+58,The Matrix,1999,8.7
+59,30 Days of Night,2007,6.6
+60,Schindler's List,1993,8.9
+61,The Evil Dead,1981,7.5
+62,The Wicker Man,1973,7.5
+63,The Omen,1976,7.5
+64,Interview with the Vampire: The Vampire Chronicles,1994,7.6
+65,The Others,2001,7.6
+66,Halloween,1978,7.8
+67,Evil Dead II,1987,7.8
+68,Shaun of the Dead,2004,7.9
+69,The Exorcist,1973,8
+70,Blade Runner 2049,2017,8
+71,The Godfather: Part III,1990,7.6
+72,Saw,2004,7.6
+73,Misery,1990,7.8
+74,Bonnie and Clyde,1967,7.8
+75,The Green Mile,1999,8.6
+76,The Pianist,2002,8.5
+77,Brother Bear,2003,6.8
+78,Cars,2006,7.1
+79,Tarzan,1999,7.3
+80,Shrek 2,2004,7.2
+81,The Land Before Time,1988,7.4
+82,The Simpsons Movie,2007,7.3
+83,Corpse Bride,2005,7.3
+84,"South Park: Bigger, Longer & Uncut",1999,7.7
+85,The Nightmare Before Christmas,1993,8
+86,Persepolis,2007,8
+87,Hauru no ugoku shiro,2004,8.2
+88,Hotaru no haka,1988,8.5
+89,Armageddon,1998,6.7
+90,A Series of Unfortunate Events,2004,6.8
+91,The Hitchhiker's Guide to the Galaxy,2005,6.8
+92,Conan the Barbarian,1982,6.9
+93,Peter Pan,2003,6.8
+94,The SpongeBob SquarePants Movie,2004,7.1
+95,Jumanji,1995,7
+96,Artificial Intelligence: AI,2001,7.2
+97,Lilo & Stitch,2002,7.2
+98,The Descent,2005,7.2
+99,The Emperor's New Groove,2000,7.3
+100,Casino,1995,8.2
+101,Braveheart,1995,8.3
+102,Titanic,1997,7.8
+103,The Last Emperor,1987,7.7
+104,Blue Velvet,1986,7.8
+105,E.T. the Extra-Terrestrial,1982,7.8
+106,Blade Runner,1982,8.1
+107,Full Metal Jacket,1987,8.3
+108,The Usual Suspects,1995,8.5
+109,WALL·E,2008,8.4
+110,Toy Story 3,2010,8.3
+111,Star Wars: Episode V - The Empire Strikes Back,1980,8.7
+112,Aliens,1986,8.3
+113,Sicko,2007,7.9
+114,Casablanca,1942,8.5
+115,Lawrence of Arabia,1962,8.3
+116,"Il buono, il brutto, il cattivo",1966,8.8
+117,Dark City,1998,7.6
+118,Paranormal Activity,2007,6.3
+119,Zodiac,2007,7.7
+120,21 Jump Street,2012,7.2
+121,Rogue One,2016,7.8
+122,Hacksaw Ridge,2016,8.1
+123,Heat,1995,8.2
+124,One Flew Over the Cuckoo's Nest,1975,8.7
+125,Up,2009,8.2
+126,Apocalypse Now,1979,8.4
+127,The Man Who Would Be King,1975,7.8
+128,Rosemary's Baby,1968,8
+129,American History X,1998,8.5
+130,Coraline,2009,7.7
+131,Spider-Man 2,2004,7.3
+132,Fight Club,1999,8.8
+133,The Conjuring,2013,7.5
+134,The Grand Budapest Hotel,2014,8.1
+135,Inglourious Basterds,2009,8.3
+136,Rise of Empires: Ottoman,2020,8
+137,Dracula,2020,6.8
+138,Black Panther,2018,7.3
+139,Kingsman: The Secret Service,2014,7.7
+140,Thor: Ragnarok,2017,7.9
+141,Guardians of the Galaxy,2014,8
+142,Batman Begins,2005,8.2
+143,The Dark Knight Rises,2012,8.4
+144,Joker,2019,8.5
+145,Interstellar,2014,8.6
+146,It's a Mad Mad Mad Mad World,1963,7.5
+147,Mulan,1998,7.6
+148,Idi i smotri,1985,8.3
+149,L.A. Confidential,1997,8.2
+150,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4
+151,The Great Dictator,1940,8.4
+152,Whiplash,2014,8.5
+153,Avengers: Infinity War,2018,8.5
+154,Cidade de Deus,2002,8.6
+155,The Notebook,2004,7.8
+156,The Perks of Being a Wallflower,2012,8
+157,Alien,1979,8.4
+158,The Matrix,1999,8.7
+159,30 Days of Night,2007,6.6
+160,Schindler's List,1993,8.9
+161,The Evil Dead,1981,7.5
+162,The Wicker Man,1973,7.5
+163,The Omen,1976,7.5
+164,Interview with the Vampire: The Vampire Chronicles,1994,7.6
+165,The Others,2001,7.6
+166,Halloween,1978,7.8
+167,Evil Dead II,1987,7.8
+168,Shaun of the Dead,2004,7.9
+169,The Exorcist,1973,8
+170,Blade Runner 2049,2017,8
+171,The Godfather: Part III,1990,7.6
+172,Saw,2004,7.6
+173,Misery,1990,7.8
+174,Bonnie and Clyde,1967,7.8
+175,The Green Mile,1999,8.6
+176,The Pianist,2002,8.5
+177,Brother Bear,2003,6.8
+178,Cars,2006,7.1
+179,Tarzan,1999,7.3
+180,Shrek 2,2004,7.2
+181,The Land Before Time,1988,7.4
+182,The Simpsons Movie,2007,7.3
+183,Corpse Bride,2005,7.3
+184,"South Park: Bigger, Longer & Uncut",1999,7.7
+185,The Nightmare Before Christmas,1993,8
+186,Persepolis,2007,8
+187,Hauru no ugoku shiro,2004,8.2
+188,Hotaru no haka,1988,8.5
+189,Armageddon,1998,6.7
+190,A Series of Unfortunate Events,2004,6.8
+191,The Hitchhiker's Guide to the Galaxy,2005,6.8
+192,Conan the Barbarian,1982,6.9
+193,Peter Pan,2003,6.8
+194,The SpongeBob SquarePants Movie,2004,7.1
+195,Jumanji,1995,7
+196,Artificial Intelligence: AI,2001,7.2
+197,Lilo & Stitch,2002,7.2
+198,The Descent,2005,7.2
+199,The Emperor's New Groove,2000,7.3
+200,Casino,1995,8.2
+201,Braveheart,1995,8.3
+202,Titanic,1997,7.8
+203,The Last Emperor,1987,7.7
+204,Blue Velvet,1986,7.8
+205,E.T. the Extra-Terrestrial,1982,7.8
+206,Blade Runner,1982,8.1
+207,Full Metal Jacket,1987,8.3
+208,The Usual Suspects,1995,8.5
+209,WALL·E,2008,8.4
+210,Toy Story 3,2010,8.3
+211,Star Wars: Episode V - The Empire Strikes Back,1980,8.7
+212,Aliens,1986,8.3
+213,Sicko,2007,7.9
+214,Casablanca,1942,8.5
+215,Lawrence of Arabia,1962,8.3
+216,"Il buono, il brutto, il cattivo",1966,8.8
+217,Dark City,1998,7.6
+218,Paranormal Activity,2007,6.3
+219,Zodiac,2007,7.7
+220,21 Jump Street,2012,7.2
+221,Rogue One,2016,7.8
+222,Hacksaw Ridge,2016,8.1
+223,Heat,1995,8.2
+224,One Flew Over the Cuckoo's Nest,1975,8.7
+225,Up,2009,8.2
+226,Apocalypse Now,1979,8.4
+227,The Man Who Would Be King,1975,7.8
+228,Rosemary's Baby,1968,8
+229,American History X,1998,8.5
+230,Coraline,2009,7.7
+231,Spider-Man 2,2004,7.3
+232,Fight Club,1999,8.8
+233,The Conjuring,2013,7.5
+234,The Grand Budapest Hotel,2014,8.1
+235,Inglourious Basterds,2009,8.3
+236,Rise of Empires: Ottoman,2020,8
+237,Dracula,2020,6.8
+238,Black Panther,2018,7.3
+239,Kingsman: The Secret Service,2014,7.7
+240,Thor: Ragnarok,2017,7.9
+241,Guardians of the Galaxy,2014,8
+242,Batman Begins,2005,8.2
+243,The Dark Knight Rises,2012,8.4
+244,Joker,2019,8.5
+245,Interstellar,2014,8.6
+246,It's a Mad Mad Mad Mad World,1963,7.5
+247,Mulan,1998,7.6
+248,Idi i smotri,1985,8.3
+249,L.A. Confidential,1997,8.2
+250,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4
+251,The Great Dictator,1940,8.4
+252,Whiplash,2014,8.5
+253,Avengers: Infinity War,2018,8.5
+254,Cidade de Deus,2002,8.6
+255,The Notebook,2004,7.8
+256,The Perks of Being a Wallflower,2012,8
+257,Alien,1979,8.4
+258,The Matrix,1999,8.7
+259,30 Days of Night,2007,6.6
+260,Schindler's List,1993,8.9
+261,The Evil Dead,1981,7.5
+262,The Wicker Man,1973,7.5
+263,The Omen,1976,7.5
+264,Interview with the Vampire: The Vampire Chronicles,1994,7.6
+265,The Others,2001,7.6
+266,Halloween,1978,7.8
+267,Evil Dead II,1987,7.8
+268,Shaun of the Dead,2004,7.9
+269,The Exorcist,1973,8
+270,Blade Runner 2049,2017,8
+271,The Godfather: Part III,1990,7.6
+272,Saw,2004,7.6
+273,Misery,1990,7.8
+274,Bonnie and Clyde,1967,7.8
+275,The Green Mile,1999,8.6
+276,The Pianist,2002,8.5
+277,Brother Bear,2003,6.8
+278,Cars,2006,7.1
+279,Tarzan,1999,7.3
+280,Shrek 2,2004,7.2
+281,The Land Before Time,1988,7.4
+282,The Simpsons Movie,2007,7.3
+283,Corpse Bride,2005,7.3
+284,"South Park: Bigger, Longer & Uncut",1999,7.7
+285,The Nightmare Before Christmas,1993,8
+286,Persepolis,2007,8
+287,Hauru no ugoku shiro,2004,8.2
+288,Hotaru no haka,1988,8.5
+289,Armageddon,1998,6.7
+290,A Series of Unfortunate Events,2004,6.8
+291,The Hitchhiker's Guide to the Galaxy,2005,6.8
+292,Conan the Barbarian,1982,6.9
+293,Peter Pan,2003,6.8
+294,The SpongeBob SquarePants Movie,2004,7.1
+295,Jumanji,1995,7
+296,Artificial Intelligence: AI,2001,7.2
+297,Lilo & Stitch,2002,7.2
+298,The Descent,2005,7.2
+299,The Emperor's New Groove,2000,7.3
+300,Casino,1995,8.2
+301,Braveheart,1995,8.3
+302,Titanic,1997,7.8
+303,The Last Emperor,1987,7.7
+304,Blue Velvet,1986,7.8
+305,E.T. the Extra-Terrestrial,1982,7.8
+306,Blade Runner,1982,8.1
+307,Full Metal Jacket,1987,8.3
+308,The Usual Suspects,1995,8.5
+309,WALL·E,2008,8.4
+310,Toy Story 3,2010,8.3
+311,Star Wars: Episode V - The Empire Strikes Back,1980,8.7
+312,Aliens,1986,8.3
+313,Sicko,2007,7.9
+314,Casablanca,1942,8.5
+315,Lawrence of Arabia,1962,8.3
+316,"Il buono, il brutto, il cattivo",1966,8.8
+317,Dark City,1998,7.6
+318,Paranormal Activity,2007,6.3
+319,Zodiac,2007,7.7
+320,21 Jump Street,2012,7.2
+321,Rogue One,2016,7.8
+322,Hacksaw Ridge,2016,8.1
+323,Heat,1995,8.2
+324,One Flew Over the Cuckoo's Nest,1975,8.7
+325,Up,2009,8.2
+326,Apocalypse Now,1979,8.4
+327,The Man Who Would Be King,1975,7.8
+328,Rosemary's Baby,1968,8
+329,American History X,1998,8.5
+330,Coraline,2009,7.7
+331,Spider-Man 2,2004,7.3
+332,Fight Club,1999,8.8
+333,The Conjuring,2013,7.5
+334,The Grand Budapest Hotel,2014,8.1
+335,Inglourious Basterds,2009,8.3
+336,Rise of Empires: Ottoman,2020,8
+337,Dracula,2020,6.8
+338,Black Panther,2018,7.3
+339,Kingsman: The Secret Service,2014,7.7
+340,Thor: Ragnarok,2017,7.9
+341,Guardians of the Galaxy,2014,8
+342,Batman Begins,2005,8.2
+343,The Dark Knight Rises,2012,8.4
+344,Joker,2019,8.5
+345,Interstellar,2014,8.6
+346,It's a Mad Mad Mad Mad World,1963,7.5
+347,Mulan,1998,7.6
+348,Idi i smotri,1985,8.3
+349,L.A. Confidential,1997,8.2
+350,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4
+351,The Great Dictator,1940,8.4
+352,Whiplash,2014,8.5
+353,Avengers: Infinity War,2018,8.5
+354,Cidade de Deus,2002,8.6
+355,The Notebook,2004,7.8
+356,The Perks of Being a Wallflower,2012,8
+357,Alien,1979,8.4
+358,The Matrix,1999,8.7
+359,30 Days of Night,2007,6.6
+360,Schindler's List,1993,8.9
+361,The Evil Dead,1981,7.5
+362,The Wicker Man,1973,7.5
+363,The Omen,1976,7.5
+364,Interview with the Vampire: The Vampire Chronicles,1994,7.6
+365,The Others,2001,7.6
+366,Halloween,1978,7.8
+367,Evil Dead II,1987,7.8
+368,Shaun of the Dead,2004,7.9
+369,The Exorcist,1973,8
+370,Blade Runner 2049,2017,8
+371,The Godfather: Part III,1990,7.6
+372,Saw,2004,7.6
+373,Misery,1990,7.8
+374,Bonnie and Clyde,1967,7.8
+375,The Green Mile,1999,8.6
+376,The Pianist,2002,8.5
+377,Brother Bear,2003,6.8
+378,Cars,2006,7.1
+379,Tarzan,1999,7.3
+380,Shrek 2,2004,7.2
+381,The Land Before Time,1988,7.4
+382,The Simpsons Movie,2007,7.3
+383,Corpse Bride,2005,7.3
+384,"South Park: Bigger, Longer & Uncut",1999,7.7
+385,The Nightmare Before Christmas,1993,8
+386,Persepolis,2007,8
+387,Hauru no ugoku shiro,2004,8.2
+388,Hotaru no haka,1988,8.5
+389,Armageddon,1998,6.7
+390,A Series of Unfortunate Events,2004,6.8
+391,The Hitchhiker's Guide to the Galaxy,2005,6.8
+392,Conan the Barbarian,1982,6.9
+393,Peter Pan,2003,6.8
+394,The SpongeBob SquarePants Movie,2004,7.1
+395,Jumanji,1995,7
+396,Artificial Intelligence: AI,2001,7.2
+397,Lilo & Stitch,2002,7.2
+398,The Descent,2005,7.2
+399,The Emperor's New Groove,2000,7.3
+400,Casino,1995,8.2
+401,Braveheart,1995,8.3
+402,Titanic,1997,7.8
+403,The Last Emperor,1987,7.7
+404,Blue Velvet,1986,7.8
+405,E.T. the Extra-Terrestrial,1982,7.8
+406,Blade Runner,1982,8.1
+407,Full Metal Jacket,1987,8.3
+408,The Usual Suspects,1995,8.5
+409,WALL·E,2008,8.4
+410,Toy Story 3,2010,8.3
+411,Star Wars: Episode V - The Empire Strikes Back,1980,8.7
+412,Aliens,1986,8.3
+413,Sicko,2007,7.9
+414,Casablanca,1942,8.5
+415,Lawrence of Arabia,1962,8.3
+416,"Il buono, il brutto, il cattivo",1966,8.8
+417,Dark City,1998,7.6
+418,Paranormal Activity,2007,6.3
+419,Zodiac,2007,7.7
+420,21 Jump Street,2012,7.2
+421,Rogue One,2016,7.8
+422,Hacksaw Ridge,2016,8.1
+423,Heat,1995,8.2
+424,One Flew Over the Cuckoo's Nest,1975,8.7
+425,Up,2009,8.2
+426,Apocalypse Now,1979,8.4
+427,The Man Who Would Be King,1975,7.8
+428,Rosemary's Baby,1968,8
+429,American History X,1998,8.5
+430,Coraline,2009,7.7
+431,Spider-Man 2,2004,7.3
+432,Fight Club,1999,8.8
+433,The Conjuring,2013,7.5
+434,The Grand Budapest Hotel,2014,8.1
+435,Inglourious Basterds,2009,8.3
+436,Rise of Empires: Ottoman,2020,8
+437,Dracula,2020,6.8
+438,Black Panther,2018,7.3
+439,Kingsman: The Secret Service,2014,7.7
+440,Thor: Ragnarok,2017,7.9
+441,Guardians of the Galaxy,2014,8
+442,Batman Begins,2005,8.2
+443,The Dark Knight Rises,2012,8.4
+444,Joker,2019,8.5
+445,Interstellar,2014,8.6
+446,It's a Mad Mad Mad Mad World,1963,7.5
+447,Mulan,1998,7.6
+448,Idi i smotri,1985,8.3
+449,L.A. Confidential,1997,8.2
+450,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4
+451,The Great Dictator,1940,8.4
+452,Whiplash,2014,8.5
+453,Avengers: Infinity War,2018,8.5
+454,Cidade de Deus,2002,8.6
+455,The Notebook,2004,7.8
+456,The Perks of Being a Wallflower,2012,8
+457,Alien,1979,8.4
+458,The Matrix,1999,8.7
+459,30 Days of Night,2007,6.6
+460,Schindler's List,1993,8.9
+461,The Evil Dead,1981,7.5
+462,The Wicker Man,1973,7.5
+463,The Omen,1976,7.5
+464,Interview with the Vampire: The Vampire Chronicles,1994,7.6
+465,The Others,2001,7.6
+466,Halloween,1978,7.8
+467,Evil Dead II,1987,7.8
+468,Shaun of the Dead,2004,7.9
+469,The Exorcist,1973,8
+470,Blade Runner 2049,2017,8
+471,The Godfather: Part III,1990,7.6
+472,Saw,2004,7.6
+473,Misery,1990,7.8
+474,Bonnie and Clyde,1967,7.8
+475,The Green Mile,1999,8.6
+476,The Pianist,2002,8.5
+477,Brother Bear,2003,6.8
+478,Cars,2006,7.1
+479,Tarzan,1999,7.3
+480,Shrek 2,2004,7.2
+481,The Land Before Time,1988,7.4
+482,The Simpsons Movie,2007,7.3
+483,Corpse Bride,2005,7.3
+484,"South Park: Bigger, Longer & Uncut",1999,7.7
+485,The Nightmare Before Christmas,1993,8
+486,Persepolis,2007,8
+487,Hauru no ugoku shiro,2004,8.2
+488,Hotaru no haka,1988,8.5
+489,Armageddon,1998,6.7
+490,A Series of Unfortunate Events,2004,6.8
+491,The Hitchhiker's Guide to the Galaxy,2005,6.8
+492,Conan the Barbarian,1982,6.9
+493,Peter Pan,2003,6.8
+494,The SpongeBob SquarePants Movie,2004,7.1
+495,Jumanji,1995,7
+496,Artificial Intelligence: AI,2001,7.2
+497,Lilo & Stitch,2002,7.2
+498,The Descent,2005,7.2
+499,The Emperor's New Groove,2000,7.3
+500,Casino,1995,8.2
+501,Braveheart,1995,8.3
+502,Titanic,1997,7.8
+503,The Last Emperor,1987,7.7
+504,Blue Velvet,1986,7.8
+505,E.T. the Extra-Terrestrial,1982,7.8
+506,Blade Runner,1982,8.1
+507,Full Metal Jacket,1987,8.3
+508,The Usual Suspects,1995,8.5
+509,WALL·E,2008,8.4
+510,Toy Story 3,2010,8.3
+511,Star Wars: Episode V - The Empire Strikes Back,1980,8.7
+512,Aliens,1986,8.3
+513,Sicko,2007,7.9
+514,Casablanca,1942,8.5
+515,Lawrence of Arabia,1962,8.3
+516,"Il buono, il brutto, il cattivo",1966,8.8
+517,Dark City,1998,7.6
+518,Paranormal Activity,2007,6.3
+519,Zodiac,2007,7.7
+520,21 Jump Street,2012,7.2
+521,Rogue One,2016,7.8
+522,Hacksaw Ridge,2016,8.1
+523,Heat,1995,8.2
+524,One Flew Over the Cuckoo's Nest,1975,8.7
+525,Up,2009,8.2
+526,Apocalypse Now,1979,8.4
+527,The Man Who Would Be King,1975,7.8
+528,Rosemary's Baby,1968,8
+529,American History X,1998,8.5
+530,Coraline,2009,7.7
+531,Spider-Man 2,2004,7.3
+532,Fight Club,1999,8.8
+533,The Conjuring,2013,7.5
+534,The Grand Budapest Hotel,2014,8.1
+535,Inglourious Basterds,2009,8.3
+536,Rise of Empires: Ottoman,2020,8
+537,Dracula,2020,6.8
+538,Black Panther,2018,7.3
+539,Kingsman: The Secret Service,2014,7.7
+540,Thor: Ragnarok,2017,7.9
+541,Guardians of the Galaxy,2014,8
+542,Batman Begins,2005,8.2
+543,The Dark Knight Rises,2012,8.4
+544,Joker,2019,8.5
+545,Interstellar,2014,8.6
+546,It's a Mad Mad Mad Mad World,1963,7.5
+547,Mulan,1998,7.6
+548,Idi i smotri,1985,8.3
+549,L.A. Confidential,1997,8.2
+550,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4
+551,The Great Dictator,1940,8.4
+552,Whiplash,2014,8.5
+553,Avengers: Infinity War,2018,8.5
+554,Cidade de Deus,2002,8.6
+555,The Notebook,2004,7.8
+556,The Perks of Being a Wallflower,2012,8
+557,Alien,1979,8.4
+558,The Matrix,1999,8.7
+559,30 Days of Night,2007,6.6
+560,Schindler's List,1993,8.9
+561,The Evil Dead,1981,7.5
+562,The Wicker Man,1973,7.5
+563,The Omen,1976,7.5
+564,Interview with the Vampire: The Vampire Chronicles,1994,7.6
+565,The Others,2001,7.6
+566,Halloween,1978,7.8
+567,Evil Dead II,1987,7.8
+568,Shaun of the Dead,2004,7.9
+569,The Exorcist,1973,8
+570,Blade Runner 2049,2017,8
+571,The Godfather: Part III,1990,7.6
+572,Saw,2004,7.6
+573,Misery,1990,7.8
+574,Bonnie and Clyde,1967,7.8
+575,The Green Mile,1999,8.6
+576,The Pianist,2002,8.5
+577,Brother Bear,2003,6.8
+578,Cars,2006,7.1
+579,Tarzan,1999,7.3
+580,Shrek 2,2004,7.2
+581,The Land Before Time,1988,7.4
+582,The Simpsons Movie,2007,7.3
+583,Corpse Bride,2005,7.3
+584,"South Park: Bigger, Longer & Uncut",1999,7.7
+585,The Nightmare Before Christmas,1993,8
+586,Persepolis,2007,8
+587,Hauru no ugoku shiro,2004,8.2
+588,Hotaru no haka,1988,8.5
+589,Armageddon,1998,6.7
+590,A Series of Unfortunate Events,2004,6.8
+591,The Hitchhiker's Guide to the Galaxy,2005,6.8
+592,Conan the Barbarian,1982,6.9
+593,Peter Pan,2003,6.8
+594,The SpongeBob SquarePants Movie,2004,7.1
+595,Jumanji,1995,7
+596,Artificial Intelligence: AI,2001,7.2
+597,Lilo & Stitch,2002,7.2
+598,The Descent,2005,7.2
+599,The Emperor's New Groove,2000,7.3
+600,Casino,1995,8.2
+601,Braveheart,1995,8.3
+602,Titanic,1997,7.8
+603,The Last Emperor,1987,7.7
+604,Blue Velvet,1986,7.8
+605,E.T. the Extra-Terrestrial,1982,7.8
+606,Blade Runner,1982,8.1
+607,Full Metal Jacket,1987,8.3
+608,The Usual Suspects,1995,8.5
+609,WALL·E,2008,8.4
+610,Toy Story 3,2010,8.3
+611,Star Wars: Episode V - The Empire Strikes Back,1980,8.7
+612,Aliens,1986,8.3
+613,Sicko,2007,7.9
+614,Casablanca,1942,8.5
+615,Lawrence of Arabia,1962,8.3
+616,"Il buono, il brutto, il cattivo",1966,8.8
+617,Dark City,1998,7.6
+618,Paranormal Activity,2007,6.3
+619,Zodiac,2007,7.7
+620,21 Jump Street,2012,7.2
+621,Rogue One,2016,7.8
+622,Hacksaw Ridge,2016,8.1
+623,Heat,1995,8.2
+624,One Flew Over the Cuckoo's Nest,1975,8.7
+625,Up,2009,8.2
+626,Apocalypse Now,1979,8.4
+627,The Man Who Would Be King,1975,7.8
+628,Rosemary's Baby,1968,8
+629,American History X,1998,8.5
+630,Coraline,2009,7.7
+631,Spider-Man 2,2004,7.3
+632,Fight Club,1999,8.8
+633,The Conjuring,2013,7.5
+634,The Grand Budapest Hotel,2014,8.1
+635,Inglourious Basterds,2009,8.3
+636,Rise of Empires: Ottoman,2020,8
+637,Dracula,2020,6.8
+638,Black Panther,2018,7.3
+639,Kingsman: The Secret Service,2014,7.7
+640,Thor: Ragnarok,2017,7.9
+641,Guardians of the Galaxy,2014,8
+642,Batman Begins,2005,8.2
+643,The Dark Knight Rises,2012,8.4
+644,Joker,2019,8.5
+645,Interstellar,2014,8.6
+646,It's a Mad Mad Mad Mad World,1963,7.5
+647,Mulan,1998,7.6
+648,Idi i smotri,1985,8.3
+649,L.A. Confidential,1997,8.2
+650,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4
+651,The Great Dictator,1940,8.4
+652,Whiplash,2014,8.5
+653,Avengers: Infinity War,2018,8.5
+654,Cidade de Deus,2002,8.6
+655,The Notebook,2004,7.8
+656,The Perks of Being a Wallflower,2012,8
+657,Alien,1979,8.4
+658,The Matrix,1999,8.7
+659,30 Days of Night,2007,6.6
+660,Schindler's List,1993,8.9
+661,The Evil Dead,1981,7.5
+662,The Wicker Man,1973,7.5
+663,The Omen,1976,7.5
+664,Interview with the Vampire: The Vampire Chronicles,1994,7.6
+665,The Others,2001,7.6
+666,Halloween,1978,7.8
+667,Evil Dead II,1987,7.8
+668,Shaun of the Dead,2004,7.9
+669,The Exorcist,1973,8
+670,Blade Runner 2049,2017,8
+671,The Godfather: Part III,1990,7.6
+672,Saw,2004,7.6
+673,Misery,1990,7.8
+674,Bonnie and Clyde,1967,7.8
+675,The Green Mile,1999,8.6
+676,The Pianist,2002,8.5
+677,Brother Bear,2003,6.8
+678,Cars,2006,7.1
+679,Tarzan,1999,7.3
+680,Shrek 2,2004,7.2
+681,The Land Before Time,1988,7.4
+682,The Simpsons Movie,2007,7.3
+683,Corpse Bride,2005,7.3
+684,"South Park: Bigger, Longer & Uncut",1999,7.7
+685,The Nightmare Before Christmas,1993,8
+686,Persepolis,2007,8
+687,Hauru no ugoku shiro,2004,8.2
+688,Hotaru no haka,1988,8.5
+689,Armageddon,1998,6.7
+690,A Series of Unfortunate Events,2004,6.8
+691,The Hitchhiker's Guide to the Galaxy,2005,6.8
+692,Conan the Barbarian,1982,6.9
+693,Peter Pan,2003,6.8
+694,The SpongeBob SquarePants Movie,2004,7.1
+695,Jumanji,1995,7
+696,Artificial Intelligence: AI,2001,7.2
+697,Lilo & Stitch,2002,7.2
+698,The Descent,2005,7.2
+699,The Emperor's New Groove,2000,7.3
+700,Casino,1995,8.2
+701,Braveheart,1995,8.3
+702,Titanic,1997,7.8
+703,The Last Emperor,1987,7.7
+704,Blue Velvet,1986,7.8
+705,E.T. the Extra-Terrestrial,1982,7.8
+706,Blade Runner,1982,8.1
+707,Full Metal Jacket,1987,8.3
+708,The Usual Suspects,1995,8.5
+709,WALL·E,2008,8.4
+710,Toy Story 3,2010,8.3
+711,Star Wars: Episode V - The Empire Strikes Back,1980,8.7
+712,Aliens,1986,8.3
+713,Sicko,2007,7.9
+714,Casablanca,1942,8.5
+715,Lawrence of Arabia,1962,8.3
+716,"Il buono, il brutto, il cattivo",1966,8.8
+717,Dark City,1998,7.6
+718,Paranormal Activity,2007,6.3
+719,Zodiac,2007,7.7
+720,21 Jump Street,2012,7.2
+721,Rogue One,2016,7.8
+722,Hacksaw Ridge,2016,8.1
+723,Heat,1995,8.2
+724,One Flew Over the Cuckoo's Nest,1975,8.7
+725,Up,2009,8.2
+726,Apocalypse Now,1979,8.4
+727,The Man Who Would Be King,1975,7.8
+728,Rosemary's Baby,1968,8
+729,American History X,1998,8.5
+730,Coraline,2009,7.7
+731,Spider-Man 2,2004,7.3
+732,Fight Club,1999,8.8
+733,The Conjuring,2013,7.5
+734,The Grand Budapest Hotel,2014,8.1
+735,Inglourious Basterds,2009,8.3
+736,Rise of Empires: Ottoman,2020,8
+737,Dracula,2020,6.8
+738,Black Panther,2018,7.3
+739,Kingsman: The Secret Service,2014,7.7
+740,Thor: Ragnarok,2017,7.9
+741,Guardians of the Galaxy,2014,8
+742,Batman Begins,2005,8.2
+743,The Dark Knight Rises,2012,8.4
+744,Joker,2019,8.5
+745,Interstellar,2014,8.6
+746,It's a Mad Mad Mad Mad World,1963,7.5
+747,Mulan,1998,7.6
+748,Idi i smotri,1985,8.3
+749,L.A. Confidential,1997,8.2
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4
+751,The Great Dictator,1940,8.4
+752,Whiplash,2014,8.5
+753,Avengers: Infinity War,2018,8.5
+754,Cidade de Deus,2002,8.6
+755,The Notebook,2004,7.8
+756,The Perks of Being a Wallflower,2012,8
+757,Alien,1979,8.4
+758,The Matrix,1999,8.7
+759,30 Days of Night,2007,6.6
+760,Schindler's List,1993,8.9
+761,The Evil Dead,1981,7.5
+762,The Wicker Man,1973,7.5
+763,The Omen,1976,7.5
+764,Interview with the Vampire: The Vampire Chronicles,1994,7.6
+765,The Others,2001,7.6
+766,Halloween,1978,7.8
+767,Evil Dead II,1987,7.8
+768,Shaun of the Dead,2004,7.9
+769,The Exorcist,1973,8
+770,Blade Runner 2049,2017,8
+771,The Godfather: Part III,1990,7.6
+772,Saw,2004,7.6
+773,Misery,1990,7.8
+774,Bonnie and Clyde,1967,7.8
+775,The Green Mile,1999,8.6
+776,The Pianist,2002,8.5
+777,Brother Bear,2003,6.8
+778,Cars,2006,7.1
+779,Tarzan,1999,7.3
+780,Shrek 2,2004,7.2
+781,The Land Before Time,1988,7.4
+782,The Simpsons Movie,2007,7.3
+783,Corpse Bride,2005,7.3
+784,"South Park: Bigger, Longer & Uncut",1999,7.7
+785,The Nightmare Before Christmas,1993,8
+786,Persepolis,2007,8
+787,Hauru no ugoku shiro,2004,8.2
+788,Hotaru no haka,1988,8.5
+789,Armageddon,1998,6.7
+790,A Series of Unfortunate Events,2004,6.8
+791,The Hitchhiker's Guide to the Galaxy,2005,6.8
+792,Conan the Barbarian,1982,6.9
+793,Peter Pan,2003,6.8
+794,The SpongeBob SquarePants Movie,2004,7.1
+795,Jumanji,1995,7
+796,Artificial Intelligence: AI,2001,7.2
+797,Lilo & Stitch,2002,7.2
+798,The Descent,2005,7.2
+799,The Emperor's New Groove,2000,7.3
+800,Casino,1995,8.2
+801,Braveheart,1995,8.3
+802,Titanic,1997,7.8
+803,The Last Emperor,1987,7.7
+804,Blue Velvet,1986,7.8
+805,E.T. the Extra-Terrestrial,1982,7.8
+806,Blade Runner,1982,8.1
+807,Full Metal Jacket,1987,8.3
+808,The Usual Suspects,1995,8.5
+809,WALL·E,2008,8.4
+810,Toy Story 3,2010,8.3
+811,Star Wars: Episode V - The Empire Strikes Back,1980,8.7
+812,Aliens,1986,8.3
+813,Sicko,2007,7.9
+814,Casablanca,1942,8.5
+815,Lawrence of Arabia,1962,8.3
+816,"Il buono, il brutto, il cattivo",1966,8.8
+817,Dark City,1998,7.6
+818,Paranormal Activity,2007,6.3
+819,Zodiac,2007,7.7
+820,21 Jump Street,2012,7.2
+821,Rogue One,2016,7.8
+822,Hacksaw Ridge,2016,8.1
+823,Heat,1995,8.2
+824,One Flew Over the Cuckoo's Nest,1975,8.7
+825,Up,2009,8.2
+826,Apocalypse Now,1979,8.4
+827,The Man Who Would Be King,1975,7.8
+828,Rosemary's Baby,1968,8
+829,American History X,1998,8.5
+830,Coraline,2009,7.7
+831,Spider-Man 2,2004,7.3
+832,Fight Club,1999,8.8
+833,The Conjuring,2013,7.5
+834,The Grand Budapest Hotel,2014,8.1
+835,Inglourious Basterds,2009,8.3
+836,Rise of Empires: Ottoman,2020,8
+837,Dracula,2020,6.8
+838,Black Panther,2018,7.3
+839,Kingsman: The Secret Service,2014,7.7
+840,Thor: Ragnarok,2017,7.9
+841,Guardians of the Galaxy,2014,8
+842,Batman Begins,2005,8.2
+843,The Dark Knight Rises,2012,8.4
+844,Joker,2019,8.5
+845,Interstellar,2014,8.6
+846,It's a Mad Mad Mad Mad World,1963,7.5
+847,Mulan,1998,7.6
+848,Idi i smotri,1985,8.3
+849,L.A. Confidential,1997,8.2
+850,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4
+851,The Great Dictator,1940,8.4
+852,Whiplash,2014,8.5
+853,Avengers: Infinity War,2018,8.5
+854,Cidade de Deus,2002,8.6
+855,The Notebook,2004,7.8
+856,The Perks of Being a Wallflower,2012,8
+857,Alien,1979,8.4
+858,The Matrix,1999,8.7
+859,30 Days of Night,2007,6.6
+860,Schindler's List,1993,8.9
+861,The Evil Dead,1981,7.5
+862,The Wicker Man,1973,7.5
+863,The Omen,1976,7.5
+864,Interview with the Vampire: The Vampire Chronicles,1994,7.6
+865,The Others,2001,7.6
+866,Halloween,1978,7.8
+867,Evil Dead II,1987,7.8
+868,Shaun of the Dead,2004,7.9
+869,The Exorcist,1973,8
+870,Blade Runner 2049,2017,8
+871,The Godfather: Part III,1990,7.6
+872,Saw,2004,7.6
+873,Misery,1990,7.8
+874,Bonnie and Clyde,1967,7.8
+875,The Green Mile,1999,8.6
+876,The Pianist,2002,8.5
+877,Brother Bear,2003,6.8
+878,Cars,2006,7.1
+879,Tarzan,1999,7.3
+880,Shrek 2,2004,7.2
+881,The Land Before Time,1988,7.4
+882,The Simpsons Movie,2007,7.3
+883,Corpse Bride,2005,7.3
+884,"South Park: Bigger, Longer & Uncut",1999,7.7
+885,The Nightmare Before Christmas,1993,8
+886,Persepolis,2007,8
+887,Hauru no ugoku shiro,2004,8.2
+888,Hotaru no haka,1988,8.5
+889,Armageddon,1998,6.7
+890,A Series of Unfortunate Events,2004,6.8
+891,The Hitchhiker's Guide to the Galaxy,2005,6.8
+892,Conan the Barbarian,1982,6.9
+893,Peter Pan,2003,6.8
+894,The SpongeBob SquarePants Movie,2004,7.1
+895,Jumanji,1995,7
+896,Artificial Intelligence: AI,2001,7.2
+897,Lilo & Stitch,2002,7.2
+898,The Descent,2005,7.2
+899,The Emperor's New Groove,2000,7.3
