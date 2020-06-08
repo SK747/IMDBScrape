@@ -19,7 +19,7 @@ imdb_ratings = []
 metascores = []
 votes = []
 # Extract data from individual movie container
-url = 'https://www.imdb.com/user/ur83994895/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail&ref_=undefined&lastPosition=0'
+url = ''
 
 while(url):
         

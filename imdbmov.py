@@ -19,7 +19,7 @@ imdb_ratings = []
 metascores = []
 votes = []
 # Extract data from individual movie container
-url = 'https://www.imdb.com/search/title/?title_type=feature&release_date=1950-01-01,2020-05-31&num_votes=100000,'
+url = ''
 
 while(url):
         

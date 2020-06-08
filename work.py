@@ -22,7 +22,7 @@ metascores = []
 votes = []
 
 for page in pages:
-        response = get('https://www.imdb.com/search/title/?my_ratings=restrict&sort=year,asc&start=' + page + '51&ref_=adv_nxt')
+        response = get('' + page + '51&ref_=adv_nxt')
         
         sleep(randint(1,2))
         
